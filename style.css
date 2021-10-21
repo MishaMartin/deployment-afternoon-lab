@@ -2,7 +2,8 @@
     padding: 40px;
   }
   #mushroom{
-    border-radius: 10px;
+    border-radius: 60%;
+    padding: 40px;
   }
   #buttons{
     padding: 40px;
@@ -19,11 +20,20 @@
     margin-right: 150px;
   }
   
+  #background {
+    background: #E9BCB7;
+    border-radius: 70%
+  }
+  #titles{
+    background: #ffffff;
+  }
+  
   body {
     font-family: system-ui;
     background: #f06d06;
     color: white;
     text-align: center;
+  
   }
   button {
       border: none;
