@@ -8,6 +8,15 @@
     padding: 40px;
   
   }
+  #name{
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  #info {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
   
   body {
     font-family: system-ui;
@@ -18,44 +27,30 @@
   button {
       border: none;
       border-radius: 10px;
-      padding: 5px 15px;
-      height: 40px;
+      padding: 0px 15px;
+      height: 58px;
+    font-size: 25pt;
       font-weight: bold;
-      background: lightgrey;
+      background: #29524A;
       color:black;
       margin-left: 20px;
       vertical-align: middle; 
   }
   body, select {
-      color: #141414;
-      background: #fff;
+      color: #06070E;
+      background: #94A187;
       font-family: "NHaasGroteskDSPro-75NBd","HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 45px;
-      line-height: 42px;
+  font-size: 40px;
+      line-height: 38px;
   }
   
   
   select {
-  margin: 0;
-  padding: 0 0.75em 0 0;
-  width: auto;
-  border: none;
-  box-shadow: none;
-  background: none;
-  outline: none;
-  
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  -o-appearance: none;
-  appearance: none;
-  
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
-  }
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    
+  } 
   
   select:focus {
   outline: none;
