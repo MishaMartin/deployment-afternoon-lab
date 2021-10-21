@@ -1,0 +1,10 @@
+button {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 15px;
+    font-weight: bold;
+    background: teal;
+    color: white;
+    margin-left: 20px;
+    vertical-align: middle; 
+}
