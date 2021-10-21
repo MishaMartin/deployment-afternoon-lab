@@ -2,6 +2,7 @@
 
 For this lab, I will create a landing page for a small terrarium and mushroom growing kit. This page will be hosted on Heroku.
 
+
 Deployment Lab
 Instructions
 For today’s lab, you are going to create a landing page. Landing pages are usually for when users click on ads. They are taken to a landing page that tries to get them to buy something or sign up for something – it’s all about taking action. Feel free to make a landing page about an existing product/service (a book, video game, piano lessons, plants, window washing etc.) or make something up (feel free to be silly).
