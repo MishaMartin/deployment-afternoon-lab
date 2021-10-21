@@ -11,6 +11,7 @@
   #name{
     margin-left: 100px;
     margin-right: 100px;
+    color: #29524A;
   }
   
   #info {
@@ -31,14 +32,14 @@
       height: 58px;
     font-size: 25pt;
       font-weight: bold;
-      background: #29524A;
+      background: lightgrey;
       color:black;
       margin-left: 20px;
       vertical-align: middle; 
   }
   body, select {
       color: #06070E;
-      background: #94A187;
+      background: #fff;
       font-family: "NHaasGroteskDSPro-75NBd","HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 40px;
       line-height: 38px;
