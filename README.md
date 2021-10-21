@@ -1,6 +1,6 @@
 # deployment-afternoon-lab
 
-For this lab, I will create a landing page for a small terrarium and mushroom growing kit.
+For this lab, I will create a landing page for a small terrarium and mushroom growing kit. This page will be hosted on Heroku.
 
 Deployment Lab
 Instructions
